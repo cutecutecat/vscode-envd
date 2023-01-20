@@ -1,13 +1,13 @@
 {
-    "name": "vscode-envd",
+    "name": "test-vscode-envd",
     "displayName": "vscode-envd",
     "description": "envd extension for visual studio code",
-    "publisher": "tensorchord",
+    "publisher": "starkind1997",
     "repository": {
         "type": "git",
         "url": "https://github.com/tensorchord/vscode-envd"
     },
-    "version": "0.0.4",
+    "version": "0.0.6",
     "engines": {
         "vscode": "^1.63.0"
     },
